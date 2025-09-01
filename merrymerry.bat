@@ -70,7 +70,6 @@ powershell -c "[console]::beep(440,400)"
 powershell -c "[console]::beep(494,400)"   
 powershell -c "[console]::beep(392,600)"   
 
-
 echo.
 echo Enjoy your holidays, %Name%!
 
@@ -121,7 +120,6 @@ for /l %%i in (0,1,10) do (
 
 goto matrix
 
-start santa.gif 
 
 pause
 
